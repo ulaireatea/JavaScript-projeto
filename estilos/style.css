@@ -3,6 +3,10 @@
     font-size: 16px; 
 }
 
+img.lado {
+    float: right;
+}
+
 body {
     background-color: rgb(175, 135, 212);
 
